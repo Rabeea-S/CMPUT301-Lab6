@@ -36,7 +36,6 @@ android {
 }
 
 dependencies {
-    implementation(files("C:/Users/rabee/AppData/Local/Android/Sdk/platforms/android-36/android.jar"))
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
