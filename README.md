@@ -9,7 +9,7 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-Instructions PDF.
+Instructions PDF.   
 https://stackoverflow.com/questions/71721535/android-studio-fails-to-generate-javadocs-due-to-packages-not-existing/73102343#73102343   
 https://www.infoworld.com/article/2256967/comparing-java-objects-with-equals-and-hashcode.html   
 https://www.w3schools.com/java/ref_string_compareto.asp   
